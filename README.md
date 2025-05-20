@@ -1,3 +1,5 @@
+# NOTE!!! This guide needs to be updated!!!!
+
 # Guide for coreboot to ASUS P8H61-M LX3 PLUS R2.0
 I'm happy to write a guide for the first time in my life.
 
